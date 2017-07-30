@@ -1,0 +1,15 @@
+{
+  "name": "Charts",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "bower": "^1.8.0",
+    "ejs": "*",
+    "express": "3.2.6",
+    "mysql": "^2.14.0",
+    "stylus": "^0.54.5"
+  }
+}
